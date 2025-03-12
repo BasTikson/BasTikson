@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Vladimir State University<br>👨‍💻Working in Elros</p>
+<p align="left">📚 I'm currently studying at Vladimir State University<br>👨‍💻Working in Elros</p>
 
 ###
 
